@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>F:\Uni\CEIT_COURSES\6\Microprocessor and Assembly Language\Homeworks\Arya-Banaeizadeh-Homework-6\hw6-sol1.2\hw6-sol1.2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>F:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>F:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>F:\Uni\CEIT_COURSES\6\Microprocessor and Assembly Language\Homeworks\Arya-Banaeizadeh-Homework-6\hw6-sol1.2\hw6-sol1.2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>F:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>F:\Uni\CEIT_COURSES\6\Microprocessor and Assembly Language\Homeworks\Arya-Banaeizadeh-Homework-6\hw6-sol1.2\hw6-sol1.2\Debug\hw6-sol1.2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>hw6-sol1.2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>hw6-sol1.2.map</FILE>
+  <FILE>hw6-sol1.2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>F:\Uni\CEIT_COURSES\6\Microprocessor and Assembly Language\Homeworks\Arya-Banaeizadeh-Homework-6\hw6-sol1.2\hw6-sol1.2\main.asm</FILE><LINE>11</LINE></reset>
+  <start><FILE>F:\Uni\CEIT_COURSES\6\Microprocessor and Assembly Language\Homeworks\Arya-Banaeizadeh-Homework-6\hw6-sol1.2\hw6-sol1.2\main.asm</FILE><LINE>16</LINE></start>
+  <Loop><FILE>F:\Uni\CEIT_COURSES\6\Microprocessor and Assembly Language\Homeworks\Arya-Banaeizadeh-Homework-6\hw6-sol1.2\hw6-sol1.2\main.asm</FILE><LINE>29</LINE></Loop>
+ </LABELS>
+</ASSEMBLER_INFO>
